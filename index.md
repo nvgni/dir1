@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Heading number 2
 ### Heading number 3
 
+##### adding an additional header
+
 - Bulleted
 - List
 
