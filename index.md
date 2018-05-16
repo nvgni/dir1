@@ -1,24 +1,21 @@
-## Welcome to GitHub Pages - Vgni
+## Welcome to GitHub Pages - Vgni ##
 
 You can use the [editor on GitHub](https://github.com/nvgni/dir1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown ###
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Heading number 1
-University
-## Heading number 2
-University
-### Heading number 3
-University
-
-##### adding an additional header
+# Heading number 1 #
+# University #
+## Heading number 2 ##
+###### University ######
+##### adding an additional header #####
 
 - Bulleted
 - List
